@@ -1,0 +1,14 @@
+﻿Console.WriteLine("`-._:  .:'   `:::  .:\\           |\\__/|           /::  .:'   `:::  .:.-'"); 
+Console.WriteLine("    \\      :          \\          |:   |          /         :       /");       
+Console.WriteLine("     \\     ::    .     `-_______/ ::   \\_______-'   .      ::   . /");          
+Console.WriteLine("      |  :   :: ::'  :   :: ::'  :   :: ::'      :: ::'  :   :: :|");             
+Console.WriteLine("      |     ;::         ;::         ;::         ;::         ;::  |");             
+Console.WriteLine("      |  .:'   `:::  .:'   `:::  .:'   `:::  .:'   `:::  .:'   `:|");             
+Console.WriteLine("     /     :           :           :           :           :    \\ ");           
+Console.WriteLine("    /______::_____     ::    .     ::    .     ::   _____._::____\\ ");          
+Console.WriteLine("                  `----._:: ::'  :   :: ::'  _.----'            ");        
+Console.WriteLine("                         `--.       ;::  .--'                   ");        
+Console.WriteLine("                              `-. .:'  .-'                       ");        
+Console.WriteLine("                                \\    /                          ");             
+Console.WriteLine("                                 \\  /                           ");        
+Console.WriteLine("                                  \\/                            "); 
